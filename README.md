@@ -118,7 +118,7 @@ Blinkit-Sales-Dashboard/
 ## Suraj Singh
 
 B.Tech Final Year Student  
-Aspiring Data Analyst & Data Science Engineer
+aspiring Data Science & Machine Learning Engineer.
 
 GitHub Profile:  
 https://github.com/SurajSingh002
